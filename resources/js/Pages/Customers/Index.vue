@@ -1,4 +1,5 @@
-Index.vue<script setup>
+<!-- Index.vue -->
+<script setup>
 import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout.vue';
 import { Head, Link } from '@inertiajs/inertia-vue3';
 import FlashMessage from '@/Components/FlashMessage.vue'
